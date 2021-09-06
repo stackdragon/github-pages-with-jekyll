@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog Steve"
+title: "stevep.net"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Code, music, life...
